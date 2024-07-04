@@ -1,8 +1,5 @@
-#include <iostream>
-#include <fstream>
-#include <iomanip>
-#include <sstream>
-#include <ctime>
+#include <bits/stdc++.h>
+
 #include <windows.h>
 
 using namespace std;
